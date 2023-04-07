@@ -1,2 +1,1 @@
-# precurse_henry
-este es un repositorio del modulo dos
+este es un proyecto nuevo es una prueba de como crear un repositorio
