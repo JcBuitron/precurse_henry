@@ -1,1 +1,2 @@
-este es un proyecto nuevo es una prueba de como crear un repositorio
+este proyecto es una prueba y como clonarlo de forma local 
+
